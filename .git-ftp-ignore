@@ -1,4 +1,5 @@
-examples
+examples/*
+LICENSE
 README.md
 .gitignore
 .git
