@@ -37,7 +37,7 @@ ${data["html"]}
 
 /* Return a link to view the page */
 function getViewLink(pageData) {
-  return `http://jstrieb.github.io/urlpages/#${window.btoa(pageData)}`;
+  return `http://share.lillefar.dk/#${window.btoa(pageData)}`;
 }
 
 
